@@ -3,7 +3,7 @@ All you need is NodeJS & NPM
 
 Install node-rcon via command 'npm install rcon'
 
-Install screen via command 'apt/yum install screen'
+(If Linux) Install screen via command 'apt/yum install screen'
 
 Save this script as 'autorestart.js'
 
