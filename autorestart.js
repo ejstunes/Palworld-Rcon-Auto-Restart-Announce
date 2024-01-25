@@ -2,8 +2,9 @@
 // Thank you to pushrax for the node-rcon package
 // All you need is NodeJS & NPM
 // Install node-rcon via command 'npm install rcon'
+// Install screen via command 'apt/yum install screen'
 // Save this script as 'autorestart.js'
-// Then run this script after configuring it via command 'node autorestart.js'
+// Then run this script after configuring it via command 'screen node autorestart.js'
 
 // Main config
 var serverip = ''
