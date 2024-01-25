@@ -1,0 +1,12 @@
+Thank you to pushrax for the node-rcon package
+All you need is NodeJS & NPM
+
+Install node-rcon via command 'npm install rcon'
+
+Save this script as 'autorestart.js'
+
+Then run this script after configuring it via command 'node autorestart.js'
+
+Config is towards the top of the file. 
+
+Be sure your server application itself is on a loop so that when the server closes it starts itself back up.
