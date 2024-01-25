@@ -7,7 +7,7 @@ Install node-rcon via command 'npm install rcon'
 
 Save this script as 'autorestart.js'
 
-Then run this script after configuring it via command 'node autorestart.js'
+Then run this script after configuring it via command 'node autorestart.js' (If Linux 'screen node autostart.js')
 
 Config is towards the top of the file. 
 
