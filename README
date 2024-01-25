@@ -1,5 +1,8 @@
 Thank you to pushrax for the node-rcon package
+
 All you need is NodeJS & NPM
+
+Once that is set up:
 
 Install node-rcon via command 'npm install rcon'
 
